@@ -1,7 +1,4 @@
 -----
-
-# 🛍️ Flipkart Reviews Sentiment Analysis using Python & NLP
-
 <div align="center">
 
 # 🛒 Flipkart Reviews Sentiment Analysis
